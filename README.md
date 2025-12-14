@@ -12,7 +12,7 @@ A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or 
 
 ## Demo
 
-- Live demo : https://docuchat-chatbot.streamlit.app/
+
 - Example screenshot:
 
 <img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/e7dbb74d-8427-40e3-96ee-3eda32108b9c" />
