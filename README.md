@@ -11,7 +11,7 @@ A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or 
 - enables voice output
 
 ## Demo: Deploy link  
-[Live Demo]((https://documentchatbot-mvmqtiwhfwfzyntdlowadu.streamlit.app/))
+[Live Demo](https://documentchatbot-mvmqtiwhfwfzyntdlowadu.streamlit.app/)
 
 
 
