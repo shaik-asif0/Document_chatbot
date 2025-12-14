@@ -10,7 +10,8 @@ A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or 
 - Uses `.env` for secure API key storage.
 - enables voice output
 
-## Demo
+## Demo Link: https://documentchatbot-mvmqtiwhfwfzyntdlowadu.streamlit.app/
+
 
 
 - Example screenshot:
