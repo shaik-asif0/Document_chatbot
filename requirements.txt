@@ -1,0 +1,8 @@
+streamlit>=1.25.0
+python-dotenv
+PyPDF2
+python-docx
+google-generativeai
+google-genai==0.2.0
+gTTS==2.3.2
+
